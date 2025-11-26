@@ -2,13 +2,13 @@
 This project focuses on understanding why customers leave the bank and what factors drive churn. Using multiple Excel datasets merged and modelled in Power BI, the dashboard brings together customer demographics, account details, credit behaviour, and activity levels. The goal is to help the bank identify patterns behind customer exits and improve customer retention through data-driven decisions.
 
 ## Dataset Used
-Contains details of all active customers <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/ActiveCustomer.xlsx">ActiveCustomer</a>
-Churn-related historical customer activity <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/Bank_Churn.csv">Bank_Churn</a>
-Credit card ownership information <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/CreditCard.xlsx">Credit Card</a>
-Core demographic and account data <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/CustomerInfo.csv">Customer Info</a>
-Details of customers who exited the bank <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/ExitCustomer.xlsx">Exit Customer</a>
-Gender classification data <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/Gender.xlsx">Gender </a>
-Customer location / region information <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/Geography.xlsx">Geography</a>
+- Contains details of all active customers <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/ActiveCustomer.xlsx">ActiveCustomer</a>
+- Churn-related historical customer activity <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/Bank_Churn.csv">Bank_Churn</a>
+- Credit card ownership information <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/CreditCard.xlsx">Credit Card</a>
+- Core demographic and account data <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/CustomerInfo.csv">Customer Info</a>
+- Details of customers who exited the bank <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/ExitCustomer.xlsx">Exit Customer</a>
+- Gender classification data <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/Gender.xlsx">Gender </a>
+- Customer location / region information <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/Geography.xlsx">Geography</a>
 - <a href="https://github.com/Roopa-Insights/Customer-Churn-Analysis-PowerBI/blob/main/RBC%20image.png">RBC logo</a>
 
 ## Dashboard
